@@ -1,24 +1,3 @@
-# README
+This is just a web scraper that gives you a random song + lyrics from Rap Genius when loaded. Refresh the page to discover new music!
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+I suppose I will add new songs periodically. Or maybe I won't.
