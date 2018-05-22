@@ -1,4 +1,6 @@
 <% @song.each do |song| %>
+<% pic = song.art[0].values[2] %>
 <h2>Title: <%= song.name %></h2>
 <h3>By: <%= song.artist.name %></h3>
+<img src ='<%= pic %>' >
 <% end %>
